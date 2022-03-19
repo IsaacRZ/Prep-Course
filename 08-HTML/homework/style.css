@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+img{
+    width:  400px;
+}
+#thirdId{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    border: blueviolet 16px solid;
+    padding: 50px;
+}
+#spanId{
+    padding: 50px;
+}
